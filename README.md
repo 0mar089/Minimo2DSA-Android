@@ -33,4 +33,4 @@ Los videos están almacenados en un backend, que devuelve una lista de URLs para
 1. Clona el repositorio:
 
    ```bash
-   git clone https://url-de-tu-repo.git
+   git clone https://github.com/0mar089/Minimo2DSA-Android
